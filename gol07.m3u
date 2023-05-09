@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Gol Peru 1
-http://191.52.214.5:8000/play/a03m/index.m3u8
-#EXTINF:-1, Gol Peru 2
 http://138.185.15.250:8000/play/a06h/index.m3u8
-#EXTINF:-1, Gol Peru 3
+#EXTINF:-1, Gol Peru 2
 http://168.121.46.90:8000/play/a024/index.m3u8
-#EXTINF:-1, Gol Peru 4
+#EXTINF:-1, Gol Peru 3
 http://179.1.144.192:4000/play/a02y/index.m3u8
+#EXTINF:-1, Gol Peru 4
+http://191.52.214.5:8000/play/a03m/index.m3u8
 #EXTINF:-1, Gol Peru 5
 http://200.24.141.2:4000/play/a302/index.m3u8
 #EXTINF:-1, Lija 1 Max A
