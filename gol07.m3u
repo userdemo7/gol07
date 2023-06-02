@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Gol Peru 1
-http://131.196.12.237:19000/play/a05m/index.m3u8
-#EXTINF:-1, Gol Peru 2
 http://190.43.92.145:8000/play/a0oq/index.m3u8
+#EXTINF:-1, Gol Peru 2
+http://131.196.12.237:19000/play/a05m/index.m3u8
 #EXTINF:-1, Gol Peru 3
 http://168.121.46.90:8000/play/a024/index.m3u8
 #EXTINF:-1, Gol Peru 4
