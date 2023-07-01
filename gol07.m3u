@@ -1,17 +1,9 @@
 #EXTM3U
-
-
 #EXTINF:-1, Gol Peru 1
-http://168.121.46.90:8000/play/a024/index.m3u8
-#EXTINF:-1, Gol Peru 2
 http://179.1.144.192:4000/play/a02y/index.m3u8
-#EXTINF:-1, Gol Peru 3
+#EXTINF:-1, Gol Peru 2
 http://170.254.234.244:8000/play/a05w/index.m3u8
-#EXTINF:-1, Gol Peru 4
+#EXTINF:-1, Gol Peru 3
 http://187.102.208.109:50000/play/a01n/index.m3u8
-#EXTINF:-1, Gol Peru 5
-http://181.115.238.188:6100/play/a09f
 #EXTINF:-1, Liga 1 Max 1
 http://187.102.208.109:50000/play/a03y/index.m3u8
-#EXTINF:-1, Liga 1 Max 2
-http://168.121.46.90:8000/play/1234/index.m3u8
