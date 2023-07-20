@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, DIRECTV +
+https://ssh101.bozztv.com/ssh101/tvdigital/playlist.m3u8
 #EXTINF:-1, Gol Peru 1
 http://187.102.210.164:8000/play/a00g/index.m3u8
 #EXTINF:-1, Gol Peru 2
