@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Liga 1 (Servidor Liga1Max)
-http://38.7.199.130:5080/LiveApp/streams/wzPrDhTWnuhWWjp31692443597120.m3u8
+http://15.204.227.98:5080/LiveApp/streams/7wRRuFpWGQ0JO4K21692460491038.m3u8
+#EXTINF:-1, Liga 1 (Servidor GolPeru)
 #EXTINF:-1, Liga 1 Max
 http://181.177.255.253:8000/play/a074/index.m3u8
 #EXTINF:-1, Gol Peru 1
