@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, (Servidor IONOS)
+#EXTINF:-1, Servidor IONOS
 http://198.251.67.38:5080/LiveApp/streams/9AR1eha8PXrdwBL41694283025912.m3u8
 #EXTINF:-1, Liga 1 Max
 http://181.177.255.253:8000/play/a074/index.m3u8
