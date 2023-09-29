@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Servidor IONOS
-http://198.251.67.38:5080/LiveApp/streams/tbuup0RI9X2AcXIp1695315238263.m3u8
-#EXTINF:-1, Liga 1 Max
-http://181.177.255.253:8000/play/a074/index.m3u8
+http://15.204.227.98:5080/LiveApp/streams/vyhuIAe00VuhFqlA1695315268915.m3u8
 #EXTINF:-1, Gol Peru 1
 http://187.102.209.92:9010/play/a04y/index.m3u8
