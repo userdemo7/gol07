@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, IONOS (PELIS)
-http://oaktvpro.club:8080/movie/928683242a/chaparro07/140135.mp4
+#EXTINF:-1, IONOS (EVENTO)
+http://198.251.67.38:5080/WebRTCApp/streams/GHl0vUm12jb48ygC1700148593983.m3u8
 #EXTINF:-1, IONOS (LIGA 1)
 http://38.43.150.126:8000/play/a04j/index.m3u8
 #EXTINF:-1, Gol Peru 1
