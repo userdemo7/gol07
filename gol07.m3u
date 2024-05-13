@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1, L1 MAX (SOLO EVENTOS)
 http://bantel.iptvperu.tv:1935/astralocal/MaticesTV/playlist.m3u8
-#EXTINF:-1, GOL PERU
+#EXTINF:-1, GOL PERU 1
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
+#EXTINF:-1, GOL PERU 2
+http://bantel.iptvperu.tv:1935/transcoderip/DHE_t5/playlist.m3u8
 #EXTINF:-1, ESPN 
 http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
 #EXTINF:-1, ESPN 2
