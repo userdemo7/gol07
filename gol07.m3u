@@ -4,18 +4,18 @@ http://bantel.iptvperu.tv:1935/astralocal/MaticesTV/playlist.m3u8
 #EXTINF:-1, GOL PERU 1
 http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
 #EXTINF:-1, GOL PERU 2
-http://bantel.iptvperu.tv:1935/transcoderip/DHE_t5/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnrji/bein_sports_Xtra/playlist.m3u8
 #EXTINF:-1, ESPN 
-http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnalh/ESPN.stream/playlist.m3u8
 #EXTINF:-1, ESPN 2
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnwen/ESPN2.stream/playlist.m3u8
 #EXTINF:-1, ESPN 3
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnwen/espn3/playlist.m3u8
 #EXTINF:-1, ESPN 4
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnwen/Espn4.stream/playlist.m3u8
 #EXTINF:-1, ESPN 5
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnwen/espn5/playlist.m3u8
 #EXTINF:-1, ESPN 6
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnwen/espn6/playlist.m3u8
 #EXTINF:-1, ESPN 7
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/cdnwen/espn7.stream/playlist.m3u8
